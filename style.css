@@ -10,6 +10,7 @@
 body{
     background-color: var(--bgColor);
     background-image: url("nyanCatBackground.png");
+    text-decoration-style: none;
 }
 
 #userPhoto{
@@ -42,6 +43,21 @@ body{
   margin-bottom: -10px;
 }
 
+a div img {
+  width: 2rem;
+  text-decoration: none;
+  
+}
+
+a div p {
+  display: inline;
+  color:#309599;
+  text-align: center;
+  position: relative;
+  top: -0.5rem;
+  text-decoration: none;
+
+}
 
 #links{
     max-width: 575px;
