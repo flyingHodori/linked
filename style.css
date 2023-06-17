@@ -34,6 +34,15 @@ body{
     text-shadow: 0 0 3px #FF0000, 0 0 5px #009DDC;
 }
 
+#title{
+  max-width: 575px;
+  width: auto;
+  margin: 27px auto;
+  text-align: center;
+  margin-bottom: -10px;
+}
+
+
 #links{
     max-width: 575px;
     width: auto;
@@ -71,6 +80,17 @@ body{
     margin:0; /* If you want no margin */
     padding:0; /*if your want to padding */
 
+}
+
+.title{
+  color:#F4EED4;
+  font-family: var(--font);
+  text-align: center;
+  margin-bottom: 0%;
+  padding: 0px;
+  text-decoration: none;
+  font-size: 1.5rem;
+  transition: all .25s cubic-bezier(.08,.59,.29,.99);
 }
 
 .rainbowcat-left{
