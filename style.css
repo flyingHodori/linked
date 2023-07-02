@@ -3,7 +3,7 @@
 :root {
     --bgColor: #F4EED4;
     --accentColor: #309599;
-    --hoverColor: #f855f8;
+    --hoverColor: #FFB6F8;
     --font: 'Karla', sans-serif;
 }
 
@@ -32,7 +32,7 @@ body{
     width: 100%;
     text-align: center;
     text-decoration: none;
-    text-shadow: 0 0 3px #f855f8, 0 0 5px #009DDC;
+    text-shadow: 0 0 3px #FFB6F8, 0 0 5px #009DDC;
 }
 
 #title{
@@ -106,7 +106,7 @@ a div p {
   margin-bottom: 0%;
   padding: 0px;
   text-decoration: none;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   transition: all .25s cubic-bezier(.08,.59,.29,.99);
 }
 
