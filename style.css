@@ -165,7 +165,7 @@ a div p {
 }
 
 .rainbowcat-bottom{
-    position: relative;
+    position: absolute;
     width:100px; 
     height:100px;; 
     bottom:90%;
