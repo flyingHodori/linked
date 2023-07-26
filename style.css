@@ -165,10 +165,10 @@ a div p {
 }
 
 .rainbowcat-bottom{
-    position: absolute;
+    position: relative;
     width:100px; 
-    height:auto; 
-    bottom: 90%;
+    height:100px;; 
+    bottom:90%;
     left:50%;
     right:50%;
     content:url('./rainbowcat.gif');
