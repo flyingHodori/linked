@@ -92,7 +92,7 @@ a div p {
 }
 
 .link:active{
-  color: transparent;
+  background-color: transparent;
 }
 
 
