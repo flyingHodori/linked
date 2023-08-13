@@ -88,8 +88,14 @@ a div p {
 .link:hover{
     background-color: var(--hoverColor);
     color: var(--bgColor);
-    
+   
 }
+
+.link:active{
+  color: transparent;
+}
+
+
 
 .cat{
     width:100px; /*width of your image*/
@@ -334,8 +340,4 @@ a div p {
     }
   }
 
-  @media(max-width: 600px) {
-    .pre-header .container .row .btn a:hover {
-        color: #fff !important;
-    }
-}
+  
