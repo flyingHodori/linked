@@ -76,7 +76,7 @@ a div p {
     padding: 20px;
     text-decoration: none;
     font-size: 1.5rem;
-    font-weight: 500;
+    font-weight: 700;
     transition: all .25s cubic-bezier(.08,.59,.29,.99);
     border: solid var(--hoverColor) 3px;
   
@@ -114,7 +114,7 @@ a div p {
   margin-bottom: 0%;
   padding: 0px;
   text-decoration: none;
-  font-size: 1.6rem;
+  font-size: 1.7rem;
   transition: all .25s cubic-bezier(.08,.59,.29,.99);
 }
 
