@@ -76,6 +76,7 @@ a div p {
     padding: 20px;
     text-decoration: none;
     font-size: 1.5rem;
+    font-weight: 500;
     transition: all .25s cubic-bezier(.08,.59,.29,.99);
     border: solid var(--hoverColor) 3px;
   
